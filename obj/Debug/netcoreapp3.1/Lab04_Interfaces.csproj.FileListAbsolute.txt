@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\bin\Debug\netcoreapp3.1\Lab04_Interfaces.exe
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\bin\Debug\netcoreapp3.1\Lab04_Interfaces.deps.json
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\bin\Debug\netcoreapp3.1\Lab04_Interfaces.runtimeconfig.json
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\bin\Debug\netcoreapp3.1\Lab04_Interfaces.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\bin\Debug\netcoreapp3.1\Lab04_Interfaces.dll
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\bin\Debug\netcoreapp3.1\Lab04_Interfaces.pdb
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\obj\Debug\netcoreapp3.1\Lab04_Interfaces.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\obj\Debug\netcoreapp3.1\Lab04_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\obj\Debug\netcoreapp3.1\Lab04_Interfaces.AssemblyInfo.cs
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\obj\Debug\netcoreapp3.1\Lab04_Interfaces.dll
+C:\Users\Remus Iftimie\source\repos\Lab04_Interfaces\obj\Debug\netcoreapp3.1\Lab04_Interfaces.pdb
